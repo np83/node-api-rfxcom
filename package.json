@@ -1,0 +1,10 @@
+{
+  "name": "NodeHttpHelloSample",
+  "version": "0.0.0",
+  "description": "Node hello http from docker",
+  "main": "app.js",
+  "author": {
+    "name": "PeterW",
+    "email": ""
+  }
+}
